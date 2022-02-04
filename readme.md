@@ -1,3 +1,4 @@
+This repository enabled smtp mta sts for the domain `onprem.wtf`.
 
 The `mta-sts.txt` file is served from the following well-known endpoint: `https://mta-sts.onprem.wtf/.well-known/mta-sts.txt`
 
